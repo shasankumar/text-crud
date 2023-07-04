@@ -32,10 +32,10 @@ def delete_file(filename):
     os.remove(filename)
 
 def startpy():
-    # create_file("test.txt")
+    create_file("test.txt")
     # read_file("test.txt")
     # update_file("test.txt")
-    delete_file("test.txt")
+    # delete_file("test.txt")
     # print("Tact101")
     
 if __name__ == '__main__':
